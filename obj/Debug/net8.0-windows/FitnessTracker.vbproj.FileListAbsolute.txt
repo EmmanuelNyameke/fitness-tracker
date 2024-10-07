@@ -1,0 +1,17 @@
+C:\Users\HELLO\Source\Repos\FitnessTracker\obj\Debug\net8.0-windows\FitnessTracker.frmFitness.resources
+C:\Users\HELLO\Source\Repos\FitnessTracker\obj\Debug\net8.0-windows\FitnessTracker.Resources.resources
+C:\Users\HELLO\Source\Repos\FitnessTracker\obj\Debug\net8.0-windows\FitnessTracker.vbproj.GenerateResource.cache
+C:\Users\HELLO\Source\Repos\FitnessTracker\obj\Debug\net8.0-windows\FitnessTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELLO\Source\Repos\FitnessTracker\obj\Debug\net8.0-windows\FitnessTracker.AssemblyInfoInputs.cache
+C:\Users\HELLO\Source\Repos\FitnessTracker\obj\Debug\net8.0-windows\FitnessTracker.AssemblyInfo.vb
+C:\Users\HELLO\Source\Repos\FitnessTracker\obj\Debug\net8.0-windows\FitnessTracker.vbproj.CoreCompileInputs.cache
+C:\Users\HELLO\Source\Repos\FitnessTracker\bin\Debug\net8.0-windows\FitnessTracker.exe
+C:\Users\HELLO\Source\Repos\FitnessTracker\bin\Debug\net8.0-windows\FitnessTracker.deps.json
+C:\Users\HELLO\Source\Repos\FitnessTracker\bin\Debug\net8.0-windows\FitnessTracker.runtimeconfig.json
+C:\Users\HELLO\Source\Repos\FitnessTracker\bin\Debug\net8.0-windows\FitnessTracker.dll
+C:\Users\HELLO\Source\Repos\FitnessTracker\bin\Debug\net8.0-windows\FitnessTracker.pdb
+C:\Users\HELLO\Source\Repos\FitnessTracker\obj\Debug\net8.0-windows\FitnessTracker.dll
+C:\Users\HELLO\Source\Repos\FitnessTracker\obj\Debug\net8.0-windows\refint\FitnessTracker.dll
+C:\Users\HELLO\Source\Repos\FitnessTracker\obj\Debug\net8.0-windows\FitnessTracker.pdb
+C:\Users\HELLO\Source\Repos\FitnessTracker\obj\Debug\net8.0-windows\FitnessTracker.genruntimeconfig.cache
+C:\Users\HELLO\Source\Repos\FitnessTracker\obj\Debug\net8.0-windows\ref\FitnessTracker.dll
